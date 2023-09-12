@@ -1,0 +1,35 @@
+
+html {
+    background-color: #f6f8f9;
+}
+
+html body {
+    margin: 0px
+}
+
+html body header {
+    padding: 50px;
+
+    background-color: #b8cad4 ;
+}
+
+html body header .titulo {
+    display: flex;
+    align-items: center;
+
+    margin-left: 5%;
+
+    gap: 30px
+}
+
+html body header .titulo img {
+    width: 40px;
+}
+
+html body header .titulo h1 {
+
+    font-family: 'Gill Sans',  sans-serif;
+    font-weight: 500;
+
+    color: white;
+}
